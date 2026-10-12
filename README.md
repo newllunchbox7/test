@@ -1,6 +1,6 @@
 <h1>search engines</h1>
 <a href="https://duckduckgo.com"> duckduckgo </a><br>
-<h1>rhythm games</h1>
+<h1>games</h1>
 <h3><a href="https://newllunchbox7.github.io">rhythm game guide site (extremely unfinished DO NOT USE)</a></h3>
 <a href="https://cjdgrevival.com"> cjdgrevival(taiko) </a><br>
 <a href="https://hectickiwi.github.io/Web-Osu-Mania"> web osu mania (broken when using sign-in) </a><br>
