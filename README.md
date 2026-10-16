@@ -8,6 +8,6 @@
 <a href="https://v2.rhythm-plus.com/">rhythm plus v2 (play web osu mania)</a><br>
 <a href="https://bemuse.ninja/">web bms + 7k</a><br>
 <a href="https://tetr.io/">tetrio (tetris but w/ sweats)</a><br>
-<a href="https://osekai.net/profiles/newllunchbox7/">placeholder</a><br>
+<a href="https://https://osu.ppy.sh/users/37512125">placeholder</a><br>
 
 
